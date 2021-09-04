@@ -1,5 +1,4 @@
 # Web-Crawler
-Config files for my GitHub profile.
 HOW TO RUN THE CODE :
 
 STEP1:Open the terminal 
