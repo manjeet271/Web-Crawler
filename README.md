@@ -2,7 +2,9 @@
 HOW TO RUN THE CODE :
 
 STEP1:Open the terminal 
+
 STEP2:Go to the particular program file location 
+
 STEP3:Enter the command: make -f Makefile
 
 Python version: python 3.0 or above
